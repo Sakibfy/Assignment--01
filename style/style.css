@@ -2,4 +2,162 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+   font-family: "Azeret Mono", monospace;
 }
+/* <!-- ---nav-ber-style----- --> */
+.nav_bar{
+  /* border: 2px solid red; */
+  margin: 50px 150px 0;
+  margin-bottom: 131px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav_bar h2{
+  font-size: 28px;
+  font-weight: 900;
+}
+.btn1{
+  padding: 17px 24px;
+  color: #0D1321;
+  border-radius: 8px;
+ 
+}
+
+ /* <!-- ------banner-style heare---- --> */
+
+.banner_area{
+  /* border: 2px solid red; */
+  width: 1440;
+  height: 652px;
+  background-image: url(/img/Hero-bg.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  
+}
+
+.banner_box{
+  text-align: center;
+  justify-content: center;
+}
+
+.banner_box img{
+  margin-top: 40px;
+  margin-bottom: 32px;
+}
+
+.banner_box h2{
+  font-size: 35px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+
+.banner_box p{
+  line-height: 20px;
+  font-size: 16px;
+  color: #0D1321;
+}
+
+.btn2{
+  padding: 21px 24px;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 50px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  background: #0D1321;
+  color: #fff;
+}
+
+/* <!-- ------Contant-area-style----- --> */
+
+.content_area{
+  border: 2px solid red;
+  margin: 74px auto;
+  width: 1140px;
+  height: 1390px;
+  background: #ffffff;
+}
+
+.contant_parent{
+   margin: 80px 97px;
+   border: 2px solid red;
+   width: 946px;
+   height: 1233px;
+}
+.fist_child{
+  text-align: center;
+  margin: 0 47px;
+}
+.fist_child h1{
+font-weight: 900;
+font-size: 32px;
+}
+.fist_child p{
+align-items: 26px;
+font-size: 16px;
+color: #0D1321;
+margin-top: 30px;
+font-family: "Azeret Mono", monospace;
+}
+
+.sec_child{
+  border: 2px solid red;
+  display: flex;
+  border-radius: 16px;
+  margin: 48px;
+  display: flex;
+  justify-content: space-between;
+  gap: 93px;
+
+}
+
+.sec_child h3{
+font-weight: bold;
+font-size: 24px;
+color: #0D1321;
+}
+
+.sec_child p{
+  align-items: 20px;
+  font-size: 13px;
+  margin-top: 10px;
+  margin-bottom: 32px;
+}
+
+/* contant all btn style hare */
+
+#contant_btn{
+  padding: 10px 20px;
+}
+
+.colm3_child{
+  gap: 32px;
+}
+.colm3_child h3{
+margin-top: 10px;
+font-weight: bold;
+font-size: 24px;
+color: #0D1321;
+}
+.colm3_child p{
+align-items: 20px;
+  font-size: 13px;
+  margin-top: 10px;
+  margin-bottom: 32px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
