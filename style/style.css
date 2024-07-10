@@ -73,16 +73,14 @@
 /* <!-- ------Contant-area-style----- --> */
 
 .content_area{
-  border: 2px solid red;
-  margin: 74px auto;
+ margin: 74px 152px;
   width: 1140px;
-  height: 1390px;
+  height: 1393px;
   background: #ffffff;
 }
 
 .contant_parent{
    margin: 80px 97px;
-   border: 2px solid red;
    width: 946px;
    height: 1233px;
 }
@@ -95,7 +93,7 @@ font-weight: 900;
 font-size: 32px;
 }
 .fist_child p{
-align-items: 26px;
+line-height: 26px;
 font-size: 16px;
 color: #0D1321;
 margin-top: 30px;
@@ -103,8 +101,7 @@ font-family: "Azeret Mono", monospace;
 }
 
 .sec_child{
-  border: 2px solid red;
-  display: flex;
+ display: flex;
   border-radius: 16px;
   margin: 48px;
   display: flex;
@@ -116,7 +113,8 @@ font-family: "Azeret Mono", monospace;
 .sec_child h3{
 font-weight: bold;
 font-size: 24px;
-color: #0D1321;
+color: rgb(13, 19, 33, 70%);
+line-height: 36px;
 }
 
 .sec_child p{
@@ -124,6 +122,7 @@ color: #0D1321;
   font-size: 13px;
   margin-top: 10px;
   margin-bottom: 32px;
+  color: rgb(13, 19, 33, 70%);
 }
 
 /* contant all btn style hare */
@@ -139,14 +138,141 @@ color: #0D1321;
 margin-top: 10px;
 font-weight: bold;
 font-size: 24px;
-color: #0D1321;
+color: rgb(13, 19, 33, 70%);
+line-height: 36px;
 }
 .colm3_child p{
 align-items: 20px;
   font-size: 13px;
   margin-top: 10px;
   margin-bottom: 32px;
+ color: rgb(13, 19, 33, 70%);
 }
+
+.colm4_child h3{
+margin-top: 10px;
+font-weight: bold;
+font-size: 24px;
+color: rgb(13, 19, 33, 70%);
+line-height: 36px;
+}
+.colm4_child p{
+  line-height: 20px;
+  font-size: 13px;
+  margin-top: 10px;
+  margin-bottom: 32px;
+ color: rgb(13, 19, 33, 70%);
+}
+
+/* ----video-area-style---- */
+
+.video_area{
+  border: 2px solid red;
+  width: 1140px;
+  height: 775px;
+  margin: 90px 152px 151px 148px;
+}
+
+.video_title{
+  border: 2px solid red;
+  text-align: center;
+}
+
+.video_title h1{
+  font-size: 32px;
+  font-weight: 900;
+  color: #0D1321;
+  margin-bottom: 24px;
+}
+.video_title p{
+  line-height: 20px;
+  font-size: 12px;
+  color: rgb(13, 19, 33, 70%);
+}
+
+.link-section iframe{
+  margin: 80px 32px;
+  border-radius: 16px;
+}
+
+.target_section{
+  width: 1140px;
+  height: 1437px;
+  border: 2px solid red;
+  margin: 0 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
